@@ -4,7 +4,7 @@
 
 机器学习：计算机通过学习算法，在海量的数据中寻找数学规律，并输出符合数据分布的模型。
 
-Data Set（数据集）：一个关于某个事物或者对象的特征的描述的集合。集合里面每一个被称为样本（Sample）或者样例（instance）。例如：![](E:\Robotic system engineering\机器学习吃瓜\Task01\1.1.1.png)
+Data Set（数据集）：一个关于某个事物或者对象的特征的描述的集合。集合里面每一个被称为样本（Sample）或者样例（instance）。例如：![](pumpkin-book——notes\Task01\1.1.1.png)
 
 特征（feature）、属性（attribute）：所描述对象或事物的性质或者属性。例如：”颜色“，”形状“等。
 
